@@ -8,3 +8,5 @@ Python OOP and DSA
 6. Generic Trees
 7. AVL Trees
 8. Hashmaps
+9. Priority Queues
+10. Heaps
