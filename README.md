@@ -10,3 +10,4 @@ Python OOP and DSA
 8. Hashmaps
 9. Priority Queues
 10. Heaps
+11. Dynamic Programming
